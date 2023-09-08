@@ -1,0 +1,7 @@
+declare the constructor as private
+declare a static data member
+declare a static member function
+you are given a bunch of cmds print those which are palindromes write using is palindrome method
+create a class student which had id name marks for 5 subjects and create a object of student class print min max avg using util package
+duplicate acnt exception 2 acnts cant have . create array of acnt number create a class for duplicate act no and datamember and constructor
+try finally or try catch or try catch finally 

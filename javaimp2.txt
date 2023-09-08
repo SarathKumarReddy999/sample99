@@ -1,0 +1,7 @@
+create a folder with pack name.
+all the classes which are in part of pack should be in folder
+every class which is part of pack should have package statement at begining.
+Inheritence is an extension or restriction of a class.
+parameter passing in java is always call by value however the behaviour is different for primitive and references
+String in java are immutable string references are mutable.
+all wrapper classes are immutable.
